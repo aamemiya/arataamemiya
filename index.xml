@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Dr. Arata Amemiya research website</title>
@@ -6,22 +6,17 @@
     <description>Recent content in Home on Dr. Arata Amemiya research website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jul 2019 21:30:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://aamemiya.github.io/aamemiya/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 15 Jul 2019 21:30:00 +0900</lastBuildDate><atom:link href="https://aamemiya.github.io/aamemiya/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Profile</title>
       <link>https://aamemiya.github.io/aamemiya/profile/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://aamemiya.github.io/aamemiya/profile/</guid>
-      <description>Arata Amemiya  Research Scientist
-RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences(iTHEMS) (RIKEN Center for Computational Science (R-CCS) Data Assimilation research team) mail: arata.amemiya (at) riken.jp      Research career 2018.10〜 Postdoc researcher at RIKEN R-CCS Data assimilation research team
-2023.10〜 Research scientist at RIKEN CPR Predicction Science Laboratory
-2025.4 〜 Research scientist at RIKEN iTHEMS Predicction Science Research team
-Education B.S., Department of Earth and Planetary Physics, Faculty of Science, The University of Tokyo, 2013.</description>
+      <description>Research career Education B.S., Department of Earth and Planetary Physics, Faculty of Science, The University of Tokyo, 2013.3
+M.S. (Earth and Planetary Science), Graduate School of Science, The University of Tokyo, 2015.3 (Supervisor: Prof. Kaoru Sato)
+Ph.D. (Earth and Planetary Science), Graduate School of Science, The University of Tokyo, 2018.9 (Supervisor: Prof. Kaoru Sato)
+Qualifications  Certified and accredited meteorologist of Japan Forest instructor Diplomas de Español como Lengua Extranjera (DELE) B2  </description>
     </item>
     
     <item>
@@ -30,8 +25,7 @@ Education B.S., Department of Earth and Planetary Physics, Faculty of Science, T
       <pubDate>Sat, 16 Mar 2019 15:52:28 +0900</pubDate>
       
       <guid>https://aamemiya.github.io/aamemiya/publication/</guid>
-      <description>last update: 2025.9.19
-Peer-reviewed articles   Huo, Z., Y. Liu, J. Taylor, Y. Zhou, A. Amemiya, H. Fan, T. Miyoshi (2025): Incremental Analysis Updates in a Convective-Scale Ensemble Kalman Filter Using Minute-by-Minute Phased Array Radar Observations Journal of Advances in Modeling Earth Systems, 17,e2024MS004802.https://doi.org/10.1029/2024MS004802   Saito, K., T. Kawabata, H. Seko, T. Miyoshi, L. Duc, T. Oizumi, M. Kunii, G. Chen, K. Ito, J. Ito, S. Yokota, W.</description>
+      <description>Peer-reviewed articles Presentation After 2018.11 Before 2018.10 </description>
     </item>
     
     <item>
@@ -43,7 +37,6 @@ Peer-reviewed articles   Huo, Z., Y. Liu, J. Taylor, Y. Zhou, A. Amemiya, H. Fan
       <description>ORCID
 Researchmap
 Google Scholar
-
 RIKEN Cluster for Pioneering Research (CPR)
 Prediction Science Laboratory
 RIKEN Center for Computational Science (R-CCS)
