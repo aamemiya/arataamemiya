@@ -17,16 +17,15 @@
       <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://aamemiya.github.io/arataamemiya/jp/profile/</guid>
-      <description>雨宮 新 (Amemiya Arata)  理化学研究所 数理創造研究センター (iTHEMS)
-予測科学研究チーム 研究員
-（兼 計算科学研究センター (R-CCS) データ同化研究チーム 研究員)
-mail: arata.amemiya (at) riken.jp   -- 2020年10月31日 理研大阪・神戸地区一般公開 にて  --    職歴 2018.10～ 理化学研究所 計算科学研究センター 特別研究員 2023.10～ 理化学研究所 開拓研究本部 研究員 2025.4 ～ 現所属
+      <description>雨宮 新 (Amemiya Arata)  日本気象協会 技術戦略室
+mail: amemiya.arata (at) jwa.or.jp   -- 2020年10月31日 理研大阪・神戸地区一般公開 にて  --    職歴 2018.10～ 理化学研究所 計算科学研究センター 特別研究員 2023.10～ 理化学研究所 開拓研究本部 研究員 2025.4 ～ 理化学研究所 数理創造研究センター (iTHEMS) 2025.10～ 現所属
 学歴 2007.3 公文国際学園高等部 卒業
 2013.3 東京大学理学部 地球惑星物理学科 卒業
 2013.4 東京大学大学院理学系研究科 地球惑星科学専攻 修士課程 入学
 2015.3 東京大学大学院理学系研究科 地球惑星科学専攻 修士課程 修了
 2015.4 東京大学大学院理学系研究科 地球惑星科学専攻 博士課程 入学
-2018.9 東京大学大学院理学系研究科 地球惑星科学専攻 博士課程 修了</description>
+2018.9 東京大学大学院理学系研究科 地球惑星科学専攻 博士課程 修了
+資格  気象予報士</description>
     </item>
     
     <item>
@@ -62,6 +61,15 @@ Google Scholar
     </item>
     
     <item>
+      <title>気象レーダのデータ同化</title>
+      <link>https://aamemiya.github.io/arataamemiya/jp/research/radar_assim/</link>
+      <pubDate>Sat, 04 Oct 2025 15:00:00 +0900</pubDate>
+      
+      <guid>https://aamemiya.github.io/arataamemiya/jp/research/radar_assim/</guid>
+      <description>作成中</description>
+    </item>
+    
+    <item>
       <title>アンサンブル予報の後処理と可視化</title>
       <link>https://aamemiya.github.io/arataamemiya/jp/research/cluster/</link>
       <pubDate>Sun, 14 Apr 2024 15:00:00 +0900</pubDate>
@@ -78,17 +86,6 @@ Google Scholar
       <guid>https://aamemiya.github.io/arataamemiya/jp/research/biascorr/</guid>
       <description>作成中
 論文：Amemiya, A., Mohta, S., and Miyoshi, T. (2023)</description>
-    </item>
-    
-    <item>
-      <title>気象レーダのデータ同化</title>
-      <link>https://aamemiya.github.io/arataamemiya/jp/research/radar_assim/</link>
-      <pubDate>Sun, 14 Apr 2024 15:00:00 +0900</pubDate>
-      
-      <guid>https://aamemiya.github.io/arataamemiya/jp/research/radar_assim/</guid>
-      <description>気象予報と一言でいっても、その中身には様々な種類があります。
-それぞれの種類を特徴づけるのは、どのくらいの期間において、どのくらいの広さの領域に注目する予報であるかという点です。 気象学ではこのことを「時間スケール」・「空間スケール」と呼びます。
-数十分～数時間、</description>
     </item>
     
     <item>
