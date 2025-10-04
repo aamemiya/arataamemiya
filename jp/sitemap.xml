@@ -1,111 +1,165 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
-    <loc>https://aamemiya.github.io/aamemiya/jp/</loc>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/</loc>
     <lastmod>2021-02-22T21:30:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aamemiya.github.io/aamemiya/"
+                href="https://aamemiya.github.io/arataamemiya/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://aamemiya.github.io/aamemiya/jp/"
+                href="https://aamemiya.github.io/arataamemiya/jp/"
                 />
-  </url><url>
-    <loc>https://aamemiya.github.io/aamemiya/jp/profile/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/profile/</loc>
     <lastmod>2019-02-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aamemiya.github.io/aamemiya/profile/"
+                href="https://aamemiya.github.io/arataamemiya/profile/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://aamemiya.github.io/aamemiya/jp/profile/"
+                href="https://aamemiya.github.io/arataamemiya/jp/profile/"
                 />
-  </url><url>
-    <loc>https://aamemiya.github.io/aamemiya/jp/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/publication/</loc>
     <lastmod>2019-03-16T15:52:28+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aamemiya.github.io/aamemiya/publication/"
+                href="https://aamemiya.github.io/arataamemiya/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://aamemiya.github.io/aamemiya/jp/publication/"
+                href="https://aamemiya.github.io/arataamemiya/jp/publication/"
                 />
-  </url><url>
-    <loc>https://aamemiya.github.io/aamemiya/jp/research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/research/</loc>
     <lastmod>2019-03-16T16:02:18+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aamemiya.github.io/aamemiya/research/"
+                href="https://aamemiya.github.io/arataamemiya/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://aamemiya.github.io/aamemiya/jp/research/"
-                />
-  </url><url>
-    <loc>https://aamemiya.github.io/aamemiya/jp/links/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aamemiya.github.io/aamemiya/links/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://aamemiya.github.io/aamemiya/jp/links/"
-                />
-  </url><url>
-    <loc>https://aamemiya.github.io/aamemiya/jp/research/cluster/</loc>
-    <lastmod>2024-04-14T15:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://aamemiya.github.io/aamemiya/jp/research/biascorr/</loc>
-    <lastmod>2024-04-14T15:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://aamemiya.github.io/aamemiya/jp/research/radar_assim/</loc>
-    <lastmod>2024-04-14T15:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://aamemiya.github.io/aamemiya/jp/research/assim/</loc>
-    <lastmod>2020-05-05T10:00:20+09:00</lastmod>
-  </url><url>
-    <loc>https://aamemiya.github.io/aamemiya/jp/research/ama/</loc>
-    <lastmod>2019-03-16T15:00:20+09:00</lastmod>
-  </url><url>
-    <loc>https://aamemiya.github.io/aamemiya/jp/research/gwp/</loc>
-    <lastmod>2019-03-16T15:00:20+09:00</lastmod>
-  </url><url>
-    <loc>https://aamemiya.github.io/aamemiya/jp/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aamemiya.github.io/aamemiya/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://aamemiya.github.io/aamemiya/jp/categories/"
-                />
-  </url><url>
-    <loc>https://aamemiya.github.io/aamemiya/jp/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aamemiya.github.io/aamemiya/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://aamemiya.github.io/aamemiya/jp/tags/"
+                href="https://aamemiya.github.io/arataamemiya/jp/research/"
                 />
   </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/links/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aamemiya.github.io/arataamemiya/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://aamemiya.github.io/arataamemiya/jp/links/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/research/cluster/</loc>
+    <lastmod>2024-04-14T15:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/research/biascorr/</loc>
+    <lastmod>2024-04-14T15:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/research/radar_assim/</loc>
+    <lastmod>2024-04-14T15:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/research/assim/</loc>
+    <lastmod>2020-05-05T10:00:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/gw/gw_section1/</loc>
+    <lastmod>2020-05-04T10:10:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/gw/gw_frmodel_2/</loc>
+    <lastmod>2020-05-04T09:00:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/gw/gw_intro/</loc>
+    <lastmod>2020-05-02T10:00:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/gw/gw_frmodel_1/</loc>
+    <lastmod>2020-05-02T10:00:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/research/ama/</loc>
+    <lastmod>2019-03-16T15:00:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/research/gwp/</loc>
+    <lastmod>2019-03-16T15:00:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aamemiya.github.io/arataamemiya/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://aamemiya.github.io/arataamemiya/jp/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/gw/</loc>
+    <lastmod>2020-05-04T10:10:20+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aamemiya.github.io/arataamemiya/jp/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aamemiya.github.io/arataamemiya/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://aamemiya.github.io/arataamemiya/jp/tags/"
+                />
+  </url>
+  
 </urlset>
